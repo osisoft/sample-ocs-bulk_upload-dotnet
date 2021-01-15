@@ -56,5 +56,5 @@ dotnet test
 ---
 
 For the main OCS bulk uploads samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OCS/blob/master/docs/BULK_UPLOAD_README.md)  
-For the main OCS samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)
+For the main OCS samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
 For the OSIsoft Samples landing page [ReadMe](https://github.com/osisoft/OSI-Samples)
