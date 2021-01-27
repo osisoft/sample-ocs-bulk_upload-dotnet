@@ -4,7 +4,7 @@
 
 [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-bulk_upload-dotnet?repoName=osisoft%2Fsample-ocs-bulk_upload-dotnet&branchName=master)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2614&repoName=osisoft%2Fsample-ocs-bulk_upload-dotnet&branchName=master)
 
-Developed against DotNet core 3.1.
+Developed against DotNet 5.0.
 
 ---
 
