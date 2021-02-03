@@ -12,7 +12,7 @@ namespace BulkUploaderTest
 {
     public class UnitTest1
     {
-        private static Exception _toThrow = null;
+        private static Exception _toThrow;
 
         [Fact]
         public void Test1()
@@ -44,6 +44,5 @@ namespace BulkUploaderTest
                 _toThrow = ex;
             }
         }
-
     }
 }
