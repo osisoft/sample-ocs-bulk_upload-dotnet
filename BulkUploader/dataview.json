@@ -28,7 +28,7 @@
         "IdentifyingField": {
           "Source": 5,
           "Keys": [ "Measurement" ],
-          "Label": "{IdentifyingValue} {FirstKey}"
+          "Label": "{IdentifyingValue} {Key}"
         }
       }
     ],
@@ -36,7 +36,7 @@
       {
         "Source": 5,
         "Keys": [ "Turbine" ],
-        "Label": "{IdentifyingValue} {FirstKey}"
+        "Label": "{IdentifyingValue} {Key}"
       }
     ],
     "DefaultStartIndex": "2020-01-15T08:00:00.000Z",

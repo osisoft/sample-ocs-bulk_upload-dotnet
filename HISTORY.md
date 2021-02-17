@@ -1,5 +1,9 @@
 # Version History
 
+## 1.0.8 / 2021-02-17
+
+- Changed dataview configuration's usage of '{FirstKey}' to '{Key}'
+
 ## 1.0.7 / 2021-01-27
 
 - Updated dependencies
