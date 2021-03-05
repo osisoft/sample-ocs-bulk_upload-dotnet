@@ -1,5 +1,9 @@
 # Version History
 
+## 1.0.8 / 2021-03-05
+
+- Fix issues in DataViewWind data view
+
 ## 1.0.7 / 2021-01-27
 
 - Updated dependencies
