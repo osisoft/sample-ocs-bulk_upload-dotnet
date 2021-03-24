@@ -69,7 +69,5 @@ jobs:
           command: build
 
       - template: '/miscellaneous/build_templates/binskim.yml@templates'
-        parameters:
-          deleteBinSkim: '**/chromedriver.exe'
 
       - template: '/miscellaneous/build_templates/analysis.yml@templates'
