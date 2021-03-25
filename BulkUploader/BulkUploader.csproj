@@ -45,6 +45,12 @@
     <None Update="sdsStreamMetastream2.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="sdsStreamTagstream1.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="sdsStreamTagstream2.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="sdsTypes.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

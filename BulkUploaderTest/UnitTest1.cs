@@ -39,7 +39,7 @@ namespace BulkUploaderTest
                 return;
 
             Console.Write(ex);
-            if (_toThrow != null)
+            if (_toThrow == null)
             {
                 _toThrow = ex;
             }
