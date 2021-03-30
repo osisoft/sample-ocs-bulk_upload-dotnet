@@ -2,7 +2,7 @@
 
 **Version:** 1.0.8
 
-[![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-bulk_upload-dotnet?repoName=osisoft%2Fsample-ocs-bulk_upload-dotnet&branchName=master)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2614&repoName=osisoft%2Fsample-ocs-bulk_upload-dotnet&branchName=master)
+[![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OCS/osisoft.sample-ocs-bulk_upload-dotnet?repoName=osisoft%2Fsample-ocs-bulk_upload-dotnet&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2614&repoName=osisoft%2Fsample-ocs-bulk_upload-dotnet&branchName=main)
 
 Developed against DotNet 5.0.
 
@@ -55,6 +55,6 @@ dotnet test
 
 ---
 
-For the main OCS bulk uploads samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OCS/blob/master/docs/BULK_UPLOAD_README.md)  
-For the main OCS samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
+For the main OCS bulk uploads samples page [ReadMe](https://github.com/osisoft/OSI-Samples-OCS/blob/main/docs/BULK_UPLOAD_README.md)  
+For the main OCS samples page [ReadMe](https://github.com/osisoft/OSI-Samples-OCS)  
 For the OSIsoft Samples landing page [ReadMe](https://github.com/osisoft/OSI-Samples)
